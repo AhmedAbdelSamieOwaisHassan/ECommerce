@@ -48,5 +48,5 @@ If you have any questions, feedback, or suggestions, feel free to reach out:
 
 - **Author**: [Ahmed Abdel Samie Owais Hassan](https://github.com/AhmedAbdelSamieOwaisHassan?tab=repositories)
 -
-- **Email**: [ ahmedabdelaamie1@gmail.com ](mailto:mahmoud2abdalfattah@gmail.com)
-- **LinkedIn**: [Mahmoud Mansy](https://www.linkedin.com/in/mahmoud-mansy-a189a5232)
+- **Email**:(mailto:ahmedabdelaamie1@gmail.com)
+- **LinkedIn**: [AhmedAbdelSamie](https://www.linkedin.com/in/ahmed-abdel-samie-owais-hassan-73955126a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
